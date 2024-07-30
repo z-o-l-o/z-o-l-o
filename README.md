@@ -3,13 +3,12 @@
 I'm a Web Developer, Web pentester and CTF player 🏁
 
 ### PROFILE
-
-    - I work as a full stack web application developer
-    - In free time I'm solve CTF, learning Web Cyber Security 
-    - My [hackthebox profile](https://app.hackthebox.com/profile/1071267)
-    - My [root-me profile](https://www.root-me.org/z0l0v)
-    - My [certificates from courses](https://github.com/z-o-l-o/certifications)
-    - My telegram:  [https://t.me/z0l0v](https://t.me/z0l0v)
+- I work as a full stack web application developer
+- In free time I'm solve CTF, learning Web Cyber Security 
+- My [hackthebox profile](https://app.hackthebox.com/profile/1071267)
+- My [root-me profile](https://www.root-me.org/z0l0v)
+- My [certificates from courses](https://github.com/z-o-l-o/certifications)
+- My telegram:  [https://t.me/z0l0v](https://t.me/z0l0v)
 
 ### SKILLS
 

@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi 👋 My name is Vlad (z0l0v)
 
-<!--
-**z-o-l-o/z-o-l-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Web Developer, Web pentester and CTF player 🏁
 
-Here are some ideas to get you started:
+### PROFILE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - I work as a full stack web application developer
+    - In free time I'm solve CTF, learning Web Cyber Security 
+    - My [hackthebox profile](https://app.hackthebox.com/profile/1071267)
+    - My [root-me profile](https://www.root-me.org/z0l0v)
+    - My [certificates from courses](https://github.com/z-o-l-o/certifications)
+    - My telegram:  [https://t.me/z0l0v](https://t.me/z0l0v)
+
+
+### SKILLS
+
+- Programming Stack
+    - Fullstack (Frontend / Backend)
+    - Javascript / Python / Bash
+    - Node.js
+    - React.js / Vue.js /Svelte.js
+    - HTML5 / CSS / Bootstrap
+    - SQL / nonSQL
+    - Git / GitHub / GitLab
+- Virtualization and containerization
+    - Docker
+    - VirtualBox
+- OS
+    - Linux (Ubuntu, Kali)
+    - Windows
+    - MacOs
+- OWASP TOP 10
+    - SQLi / CMDi / IDOR
+    - PHPi / LFI / RFI
+    - SSRF / HTMLi / XSS
+    - XXE / SSTI / Insecure File Upload
+- Others
+    - AutoCad / Revit
+    - Photoshop
+    - MS Project
+    - Methods Agile
